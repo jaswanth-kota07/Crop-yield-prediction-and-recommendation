@@ -25,7 +25,12 @@ env/
 venv/
 .venv/
 *.pkl
-# Large models are excluded by default. If you need small ones, add them explicitly.
+# Large models are excluded by default.
+!ML-model/models/crop_model_v1.pkl
+!ML-model/models/yield_model_v1.pkl
+!ML-model/models/scaler_v1.pkl
+!ML-model/models/crop_label_encoder_v1.pkl
+!ML-model/models/profit_crop_encoder_v1.pkl
 # !ML-model/models/small_model.pkl
 pip-log.txt
 pip-delete-this-directory.txt

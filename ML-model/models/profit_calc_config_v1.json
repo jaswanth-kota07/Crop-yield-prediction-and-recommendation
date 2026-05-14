@@ -1,0 +1,55 @@
+{
+  "cultivation_costs": {
+    "rice": {
+      "seeds": 2500,
+      "labor": 15000,
+      "irrigation": 8000,
+      "machinery": 5000,
+      "pesticides": 3000,
+      "other": 2000
+    },
+    "wheat": {
+      "seeds": 3000,
+      "labor": 12000,
+      "irrigation": 6000,
+      "machinery": 6000,
+      "pesticides": 2500,
+      "other": 1500
+    },
+    "maize": {
+      "seeds": 4000,
+      "labor": 10000,
+      "irrigation": 7000,
+      "machinery": 5500,
+      "pesticides": 3500,
+      "other": 2000
+    },
+    "cotton": {
+      "seeds": 5000,
+      "labor": 18000,
+      "irrigation": 10000,
+      "machinery": 7000,
+      "pesticides": 8000,
+      "other": 3000
+    },
+    "sugarcane": {
+      "seeds": 15000,
+      "labor": 25000,
+      "irrigation": 12000,
+      "machinery": 8000,
+      "pesticides": 5000,
+      "other": 5000
+    }
+  },
+  "market_prices": {
+    "rice": 2200,
+    "wheat": 2100,
+    "maize": 1800,
+    "cotton": 5500,
+    "sugarcane": 350,
+    "soybean": 4200,
+    "groundnut": 5800
+  },
+  "version": "v1",
+  "currency": "INR"
+}
